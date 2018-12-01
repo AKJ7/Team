@@ -1,2 +1,3 @@
 # Team
-TeamProjekt
+TeamProjekt  
+01.12.2018: SOLVED READ AND SAVE CARDS
